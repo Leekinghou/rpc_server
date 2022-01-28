@@ -1,0 +1,4 @@
+rpc_host: 0.0.0.0
+rpc_port: 18888
+api_host: 0.0.0.0
+api_port: 19999
